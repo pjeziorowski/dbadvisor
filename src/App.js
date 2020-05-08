@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import DatabasePicker from './components/Advisor';
+import DatabaseSelector from './components/DatabaseSelector';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <DatabasePicker/>
+        <DatabaseSelector />
       </header>
     </div>
   );

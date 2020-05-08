@@ -19,4 +19,9 @@
     display: flex;
     justify-content: space-evenly;
   }
+
+  .hint {
+      color: #a8a8a8;
+      margin: 6em 0;
+  }
   
